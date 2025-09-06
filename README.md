@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,postgres,nodejs,angular,nextjs,npm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,php,postgres,mysql,nodejs,nextjs,vite,postman,angular,,npm,firebase,figma)](https://skillicons.dev)
 <!--
 **jcolmenarezgil/jcolmenarezgil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
